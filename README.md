@@ -1,6 +1,6 @@
 # Word Dictionary 📚
 
-This project is a dictionary application that allows users to search for words to obtain their definitions, synonyms, antonyms, usage examples, and pronunciation. It utilizes the `dictionaryapi.dev` API to fetch information about words.
+This project is a dictionary application that allows users to search for words to obtain their definitions, synonyms, antonyms, usage examples, and pronunciation. It utilizes the dictionaryapi.dev API to fetch information about words.
 
 ## Features 🌟
 
