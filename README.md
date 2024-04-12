@@ -27,6 +27,10 @@ To run this project locally, follow the steps below:
 2. Navigate to the project folder and install the dependencies with the command `npm install`. 📦
 3. Run the project with `npm start`. This will start the development server and open the application in your default browser. 🌐
 
+## Live Demo
+
+If you wish to test the application, you can access it through the following link: [https://dictionary-project-one.vercel.app/?seach=](https://dictionary-project-one.vercel.app/?seach=)
+
 ## Project Structure 🏗️
 
 The project follows a basic React application structure:
